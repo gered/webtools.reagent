@@ -1,4 +1,4 @@
-(defproject gered/webtools.reagent "0.1"
+(defproject gered/webtools.reagent "0.1.1"
   :description  "Various helper functions and other things specifically for use in ClojureScript/Reagent applications."
   :url          "https://github.com/gered/webtools.reagent"
   :license      {:name "MIT License"

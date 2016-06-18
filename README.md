@@ -20,7 +20,7 @@ components from the following libraries:
 ## Leiningen
 
 ```clojure
-[gered/webtools.reagent "0.1"]
+[gered/webtools.reagent "0.1.1"]
 ```
 
 ## React/Bootstrap Library Components CSS
