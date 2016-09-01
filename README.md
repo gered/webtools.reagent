@@ -41,11 +41,11 @@ Just the standard [Bootstrap CSS stylesheet][4] (plus optional theme):
 
 #### React-Bootstrap-DateTimePicker
 
-    https://npmcdn.com/react-bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css
+    https://unpkg.com/react-bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css
 
 #### React-Select
 
-    https://npmcdn.com/react-select/dist/react-select.min.css
+    https://unpkg.com/react-select/dist/react-select.min.css
 
 
 ## License
