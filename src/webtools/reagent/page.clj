@@ -13,7 +13,7 @@
   [& [use-bootstrap-theme?]]
   (->> ["https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css"
         (if use-bootstrap-theme? "https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap-theme.min.css")
-        "https://npmcdn.com/react-bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css"
-        "https://npmcdn.com/react-select/dist/react-select.min.css"]
+        "https://unpkg.com/react-bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css"
+        "https://unpkg.com/react-select/dist/react-select.min.css"]
        (remove nil?)
        (apply include-css)))
